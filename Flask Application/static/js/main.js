@@ -25,10 +25,9 @@ $(document).ready(function () {
 
 // to structure the disease details taken from json
 function structureData(obj){
-    // const map = new Map(Object.entries(obj))
-    // console.log(map)
     for(const key in obj){
-        $('#detail').append('<h5><strong>'+key+'</strong></h5>')
+        const value = key.slice(2)
+        $('#detail').append('<h5><strong>'+value+'</strong></h5>')
         if(typeof obj[key] === 'object' && !Array.isArray(obj[key])){
             for(const key1 in obj[key]){
                 $("#detail").append('<strong>'+key1+' : </strong> '+obj[key][key1]+'</br>')

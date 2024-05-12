@@ -1,18 +1,18 @@
 {
     "Apple Scab": {
-      "Overview": "Apple scab is a fungal disease affecting apple trees, causing lesions on leaves and fruit.",
-      "Symptoms": [
+      "0 Overview": "Apple scab is a fungal disease affecting apple trees, causing lesions on leaves and fruit.",
+      "1 Symptoms": [
         "Olive-green to black lesions on leaves and fruit",
         "Leaf distortion and yellowing",
         "Premature leaf drop",
         "Reduced fruit quality"
       ],
-      "TriggerAndSpread": "Spreads through water splash, wind, and infected debris; favors wet conditions.",
-      "ChemicalControl": {
-        "CopperBasedSprays": "Apply copper-based fungicides before bud break and throughout the growing season.",
+      "2 Trigger And Spread": "Spreads through water splash, wind, and infected debris; favors wet conditions.",
+      "3 Chemical Control": {
+        "Copper Based Sprays": "Apply copper-based fungicides before bud break and throughout the growing season.",
         "Fungicides": "Use fungicides like mancozeb, myclobutanil, or thiophanate-methyl."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant apple varieties.",
         "Remove and destroy fallen leaves and fruit.",
         "Prune to improve air circulation.",
@@ -21,19 +21,19 @@
     },
 
     "Apple Black Rot": {
-      "Overview": "Apple black rot is a fungal disease affecting apple trees, causing fruit rot and leaf lesions.",
-      "Symptoms": [
+      "0 Overview": "Apple black rot is a fungal disease affecting apple trees, causing fruit rot and leaf lesions.",
+      "1 Symptoms": [
         "Brown circular lesions on fruit",
         "Shriveled, mummified fruit",
         "Leaf lesions with a dark border",
         "Twig and branch cankers"
       ],
-      "TriggerAndSpread": "Spreads through rain, wind, and infected debris; infects through wounds or natural openings.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Spreads through rain, wind, and infected debris; infects through wounds or natural openings.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like captan, mancozeb, or thiophanate-methyl during the growing season.",
         "Sanitizers": "Sanitize pruning tools to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Prune to improve air circulation.",
         "Remove and destroy infected fruit and leaves.",
         "Apply fungicides preventatively during wet periods."
@@ -41,19 +41,19 @@
     },
 
     "Cedar Apple Rust": {
-      "Overview": "Cedar apple rust is a fungal disease affecting apple and cedar trees, causing lesions and fruit deformation.",
-      "Symptoms": [
+      "0 Overview": "Cedar apple rust is a fungal disease affecting apple and cedar trees, causing lesions and fruit deformation.",
+      "1 Symptoms": [
         "Bright orange or yellow spots on leaves",
         "Galls on cedar trees",
         "Circular, raised lesions on apple fruit",
         "Premature leaf drop"
       ],
-      "TriggerAndSpread": "Completes its lifecycle between juniper and apple; spreads through wind and rain.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Completes its lifecycle between juniper and apple; spreads through wind and rain.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like myclobutanil or thiophanate-methyl to protect foliage.",
         "Sanitizers": "Sanitize pruning tools to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant apple varieties.",
         "Remove nearby cedar trees if possible.",
         "Prune to improve air circulation."
@@ -61,22 +61,22 @@
     },
 
     "Healthy Apple Plant": {
-        "Overview": "Maintaining a healthy apple plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy apple plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Normal fruit development",
           "No signs of lesions or discoloration",
           "Robust growth with well-formed branches",
           "Minimal leaf drop"
         ],
-        "OptimalConditions": {
+        "2 Optimal Conditions": {
           "Sunlight": "Full sunlight for at least 6-8 hours a day.",
           "Watering": "Consistent and appropriate watering, avoiding waterlogged soil.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Pruning": "Regular pruning to remove dead or diseased branches and promote airflow."
         },
-        "Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "3 Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
+        "4 Preventive Measures": [
           "Implement good sanitation practices.",
           "Apply preventive fungicides and insecticides as needed.",
           "Provide adequate support for young branches and fruit-bearing limbs."
@@ -86,23 +86,23 @@
 
 
     "Citrus Canker": {
-        "Overview": "Citrus canker is a bacterial disease affecting citrus trees with blemishes on leaves, fruit, and stems.",
-        "Symptoms": [
+        "0 Overview": "Citrus canker is a bacterial disease affecting citrus trees with blemishes on leaves, fruit, and stems.",
+        "1 Symptoms": [
           "Lesions on leaves",
           "Fruit blemishes",
           "Stem scabs",
           "Leaf and fruit drop"
         ],
-        "TriggerAndSpread": "Spread through rain, wind-driven rain, and contaminated tools; enters through natural openings or wounds.",
-        "BiologicalControl": {
-          "BeneficialMicroorganisms": "Introduce microorganisms that compete with the pathogen.",
-          "NaturalPredators": "Encourage natural predators of the canker-causing bacteria."
+        "2 Trigger And Spread": "Spread through rain, wind-driven rain, and contaminated tools; enters through natural openings or wounds.",
+        "3 Biological Control": {
+          "Beneficial Microorganisms": "Introduce microorganisms that compete with the pathogen.",
+          "Natural Predators": "Encourage natural predators of the canker-causing bacteria."
         },
-        "ChemicalControl": {
-          "CopperBasedSprays": "Use copper-based fungicides to reduce bacterial growth.",
+        "4 Chemical Control": {
+          "Copper Based Sprays": "Use copper-based fungicides to reduce bacterial growth.",
           "Antibiotics": "Apply antibiotics like streptomycin in severe cases."
         },
-        "PreventiveMeasures": [
+        "5 Preventive Measures": [
           "Sanitation practices for tools and equipment.",
           "Implement quarantine measures.",
           "Consider resistant citrus varieties.",
@@ -112,21 +112,21 @@
       },
     
       "Citrus Greening": {
-        "Overview": "Citrus greening, also known as Huanglongbing, is a devastating bacterial disease affecting citrus trees.",
-        "Symptoms": [
+        "0 Overview": "Citrus greening, also known as Huanglongbing, is a devastating bacterial disease affecting citrus trees.",
+        "1 Symptoms": [
           "Yellowing of leaves",
           "Misshapen, bitter fruit",
           "Stunted growth",
           "Premature fruit drop"
         ],
-        "TriggerAndSpread": "Spread by citrus psyllids, tiny insects that feed on citrus trees and transmit the bacteria.",
-        "BiologicalControl": {
-          "PredatoryInsects": "Introduce predators of citrus psyllids, such as parasitic wasps."
+        "2 Trigger And Spread": "Spread by citrus psyllids, tiny insects that feed on citrus trees and transmit the bacteria.",
+        "3 Biological Control": {
+          "Predatory Insects": "Introduce predators of citrus psyllids, such as parasitic wasps."
         },
-        "ChemicalControl": {
+        "4 ChemicalControl": {
           "Insecticides": "Use insecticides to control citrus psyllid populations."
         },
-        "PreventiveMeasures": [
+        "5 Preventive Measures": [
           "Regular monitoring for psyllid presence.",
           "Remove and destroy infected trees.",
           "Planting disease-free citrus stock.",
@@ -135,20 +135,20 @@
       },
       
       "Citrus Gummosis": {
-        "Overview": "Citrus gummosis is a condition where gum-like substances are exuded from the trunk or branches of citrus trees.",
-        "Symptoms": [
+        "0 Overview": "Citrus gummosis is a condition where gum-like substances are exuded from the trunk or branches of citrus trees.",
+        "1 Symptoms": [
           "Gum oozing from trunk or branches",
           "Cankers on bark",
           "Dieback of branches"
         ],
-        "TriggerAndSpread": "Often caused by wounds, environmental stress, or fungal infections.",
-        "BiologicalControl": {
-          "BeneficialMicroorganisms": "Introduce beneficial microorganisms to combat fungal pathogens."
+        "2 TriggerAnd Spread": "Often caused by wounds, environmental stress, or fungal infections.",
+        "3 Biological Control": {
+          "Beneficial Microorganisms": "Introduce beneficial microorganisms to combat fungal pathogens."
         },
-        "ChemicalControl": {
+        "4 Chemical Control": {
           "Fungicides": "Apply fungicides to control fungal infections."
         },
-        "PreventiveMeasures": [
+        "5 Preventive Measures": [
           "Avoid trunk injuries during cultivation.",
           "Provide proper irrigation and nutrients.",
           "Apply preventive fungicides regularly."
@@ -156,22 +156,22 @@
       },
     
       "Healthy Citrus Plant": {
-        "Overview": "Maintaining a healthy citrus plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy citrus plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Normal fruit development",
           "No signs of lesions or discoloration",
           "Robust growth with well-formed branches",
           "Minimal leaf drop"
         ],
-        "OptimalConditions": {
+        "2 Optimal Conditions": {
           "Sunlight": "Full sunlight for at least 6-8 hours a day.",
           "Watering": "Consistent and appropriate watering, avoiding waterlogged soil.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Pruning": "Regular pruning to remove dead or diseased branches and promote airflow."
         },
-        "Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "3 Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
+        "4 Preventive Measures": [
           "Implement good sanitation practices.",
           "Apply preventive fungicides and insecticides as needed.",
           "Provide adequate support for young branches and fruit-bearing limbs."
@@ -179,20 +179,20 @@
       },
       
       "Leaf Miner": {
-        "Overview": "Leaf miners are insects that create tunnels or mines in the leaves of citrus trees during their larval stage.",
-        "Symptoms": [
+        "0 Overview": "Leaf miners are insects that create tunnels or mines in the leaves of citrus trees during their larval stage.",
+        "1 Symptoms": [
           "Winding trails or tunnels on leaves",
           "Leaf discoloration",
           "Reduced photosynthesis"
         ],
-        "TriggerAndSpread": "Adult leaf miners lay eggs on the leaves, and the hatched larvae create mines as they feed.",
-        "BiologicalControl": {
-          "PredatoryInsects": "Encourage natural predators of leaf miners, such as parasitoid wasps."
+        "2 Trigger And Spread": "Adult leaf miners lay eggs on the leaves, and the hatched larvae create mines as they feed.",
+        "3 Biological Control": {
+          "Predatory Insects": "Encourage natural predators of leaf miners, such as parasitoid wasps."
         },
-        "ChemicalControl": {
+        "4 Chemical Control": {
           "Insecticides": "Use insecticides to control leaf miner populations."
         },
-        "PreventiveMeasures": [
+        "5 Preventive Measures": [
           "Regularly monitor for signs of leaf miners.",
           "Remove and destroy infested leaves.",
           "Use reflective mulch to deter egg-laying."
@@ -200,20 +200,20 @@
       },
     
       "Lemon Butterfly": {
-        "Overview": "Lemon butterfly, also known as citrus swallowtail, is a butterfly species whose larvae feed on citrus leaves.",
-        "Symptoms": [
+        "0 Overview": "Lemon butterfly, also known as citrus swallowtail, is a butterfly species whose larvae feed on citrus leaves.",
+        "1 Symptoms": [
           "Chewed or skeletonized leaves",
           "Damage to young shoots",
           "Reduced fruit yield"
         ],
-        "TriggerAndSpread": "Larvae hatch from eggs laid on citrus leaves by adult lemon butterflies.",
-        "BiologicalControl": {
-          "PredatoryInsects": "Encourage natural predators of lemon butterfly larvae, such as birds and parasitoid wasps."
+        "2 Trigger And Spread": "Larvae hatch from eggs laid on citrus leaves by adult lemon butterflies.",
+        "3 Biological Control": {
+          "Predatory Insects": "Encourage natural predators of lemon butterfly larvae, such as birds and parasitoid wasps."
         },
-        "ChemicalControl": {
+        "4 Chemical Control": {
           "Insecticides": "Use insecticides to control lemon butterfly populations."
         },
-        "PreventiveMeasures": [
+        "5 Preventive Measures": [
           "Regularly inspect citrus trees for eggs and larvae.",
           "Remove and destroy infested leaves and larvae.",
           "Use protective nets to prevent adult butterflies from laying eggs."
@@ -223,19 +223,19 @@
 
 
     "Corn Cercospora Leaf Spot Gray Leaf Spot": {
-      "Overview": "Cercospora leaf spot and gray leaf spot are fungal diseases affecting corn, causing leaf lesions and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Cercospora leaf spot and gray leaf spot are fungal diseases affecting corn, causing leaf lesions and reduced yield.",
+      "1 Symptoms": [
         "Small, circular to elongated gray or tan lesions on leaves",
         "Yellowing and browning of lesions",
         "Premature leaf death",
         "Reduced photosynthetic capacity"
       ],
-      "TriggerAndSpread": "Spread through wind, rain, and infected crop debris; favors warm, humid conditions.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Spread through wind, rain, and infected crop debris; favors warm, humid conditions.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, pyraclostrobin, or azoxystrobin during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant corn varieties.",
         "Rotate crops to reduce inoculum buildup.",
         "Practice good crop hygiene by removing debris."
@@ -243,19 +243,19 @@
     },
 
     "Corn Common Rust": {
-      "Overview": "Common rust is a fungal disease affecting corn, causing yellow to brown pustules on leaves.",
-      "Symptoms": [
+      "0 Overview": "Common rust is a fungal disease affecting corn, causing yellow to brown pustules on leaves.",
+      "1 Symptoms": [
         "Small, round to elongated pustules on leaves",
         "Yellow to brownish-orange in color",
         "Premature leaf senescence",
         "Reduced photosynthetic capacity"
       ],
-      "TriggerAndSpread": "Spread through wind-borne spores; favored by warm, humid conditions.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Spread through wind-borne spores; favored by warm, humid conditions.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like triazoles or strobilurins to protect leaves during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant corn varieties.",
         "Rotate crops to reduce inoculum buildup.",
         "Remove volunteer corn plants."
@@ -263,22 +263,22 @@
     },
 
     "Healthy Corn Plant": {
-        "Overview": "Maintaining a healthy corn plant is essential for optimal growth, yield, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy corn plant is essential for optimal growth, yield, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Uniform and healthy stalks",
           "Normal ear development",
           "No signs of lesions or discoloration",
           "Robust growth with well-formed tassels"
         ],
-        "OptimalConditions": {
+        "2 Optimal Conditions": {
           "Sunlight": "Full sunlight for optimal photosynthesis.",
           "Watering": "Consistent moisture, especially during critical growth stages.",
           "Nutrients": "Adequate levels of nitrogen, phosphorus, and potassium in the soil.",
           "Spacing": "Proper spacing between plants for optimal growth and airflow."
         },
-        "Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "3 Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
+        "4 Preventive Measures": [
           "Implement crop rotation to reduce disease pressure.",
           "Use disease-resistant corn varieties when available.",
           "Apply appropriate pesticides or fungicides preventatively."
@@ -286,19 +286,19 @@
       },
 
     "Corn Northern Leaf Blight": {
-      "Overview": "Northern leaf blight is a fungal disease affecting corn, causing cigar-shaped lesions on leaves.",
-      "Symptoms": [
+      "0 Overview": "Northern leaf blight is a fungal disease affecting corn, causing cigar-shaped lesions on leaves.",
+      "1 Symptoms": [
         "Large, cigar-shaped lesions on leaves",
         "Gray to tan in color",
         "Premature leaf death",
         "Reduced photosynthetic capacity"
       ],
-      "TriggerAndSpread": "Spread through wind-borne spores; favored by warm, humid conditions.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Spread through wind-borne spores; favored by warm, humid conditions.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, azoxystrobin, or propiconazole during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant corn varieties.",
         "Rotate crops to reduce inoculum buildup.",
         "Maintain proper plant spacing for good air circulation."
@@ -308,19 +308,19 @@
 
 
     "Grape Black Rot": {
-      "Overview": "Black rot is a fungal disease affecting grapes, causing leaf lesions and fruit decay.",
-      "Symptoms": [
+      "0 Overview": "Black rot is a fungal disease affecting grapes, causing leaf lesions and fruit decay.",
+      "1 Symptoms": [
         "Brown circular lesions on leaves",
         "Shriveled, blackened grapes",
         "Twig and cane lesions",
         "Fruit mummification"
       ],
-      "TriggerAndSpread": "Spreads through rain, wind, and infected debris; infects through wounds or natural openings.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Spreads through rain, wind, and infected debris; infects through wounds or natural openings.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like captan, myclobutanil, or thiophanate-methyl during the growing season.",
         "Sanitizers": "Sanitize pruning tools to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Prune to improve air circulation.",
         "Remove and destroy infected fruit and leaves.",
         "Apply fungicides preventatively during wet periods."
@@ -328,19 +328,19 @@
     },
 
     "Grape Black Measles": {
-      "Overview": "Black measles is a fungal disease affecting grapes, causing black spots on leaves and reduced fruit quality.",
-      "Symptoms": [
+      "0 Overview": "Black measles is a fungal disease affecting grapes, causing black spots on leaves and reduced fruit quality.",
+      "1 Symptoms": [
         "Black spots on leaves",
         "Reduced fruit quality",
         "Twig and cane lesions",
         "Premature leaf drop"
       ],
-      "TriggerAndSpread": "Spreads through wind and rain; infects through wounds or natural openings.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Spreads through wind and rain; infects through wounds or natural openings.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like captan, myclobutanil, or thiophanate-methyl during the growing season.",
         "Sanitizers": "Sanitize pruning tools to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Prune to improve air circulation.",
         "Remove and destroy infected fruit and leaves.",
         "Apply fungicides preventatively during wet periods."
@@ -348,22 +348,22 @@
     },
 
     "Healthy Grape Plant": {
-        "Overview": "Maintaining a healthy grape plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy grape plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Healthy and well-formed clusters of grapes",
           "No signs of lesions or discoloration on leaves or fruit",
           "Robust growth with well-formed vines",
           "Minimal leaf drop"
         ],
-        "OptimalConditions": {
+        "3 Optimal Conditions": {
           "Sunlight": "Full sunlight for optimal sugar production in grapes.",
           "Watering": "Regular, deep watering to keep the soil consistently moist but not waterlogged.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Pruning": "Regular pruning to remove excess foliage and improve airflow."
         },
-        "Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "4 Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
+        "5 Preventive Measures": [
           "Implement good sanitation practices in the vineyard.",
           "Apply preventive fungicides and insecticides as needed.",
           "Train vines properly and provide adequate support."
@@ -372,19 +372,19 @@
     
 
     "Grape Leaf Blight": {
-      "Overview": "Leaf blight is a fungal disease affecting grapes, causing brown lesions on leaves.",
-      "Symptoms": [
+      "0 Overview": "Leaf blight is a fungal disease affecting grapes, causing brown lesions on leaves.",
+      "1 Symptoms": [
         "Brown lesions on leaves",
         "Premature leaf drop",
         "Twig and cane lesions",
         "Reduced fruit quality"
       ],
-      "TriggerAndSpread": "Spreads through rain, wind, and infected debris; infects through wounds or natural openings.",
-      "ChemicalControl": {
+      "3 TriggerAndSpread": "Spreads through rain, wind, and infected debris; infects through wounds or natural openings.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like captan, myclobutanil, or thiophanate-methyl during the growing season.",
         "Sanitizers": "Sanitize pruning tools to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Prune to improve air circulation.",
         "Remove and destroy infected fruit and leaves.",
         "Apply fungicides preventatively during wet periods."
@@ -394,19 +394,19 @@
 
 
     "Potato Early Blight": {
-      "Overview": "Early blight is a fungal disease affecting potatoes, causing lesions on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Early blight is a fungal disease affecting potatoes, causing lesions on leaves and reduced yield.",
+      "1 Symptoms": [
         "Dark brown lesions with concentric rings on leaves",
         "Premature leaf senescence",
         "Reduced tuber yield and quality",
         "Twig and stem lesions"
       ],
-      "TriggerAndSpread": "Spreads through wind, rain, and infected crop debris; favors warm, humid conditions.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Spreads through wind, rain, and infected crop debris; favors warm, humid conditions.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or azoxystrobin during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant potato varieties.",
         "Rotate crops to reduce inoculum buildup.",
         "Apply fungicides preventatively during wet periods."
@@ -414,22 +414,22 @@
     },
 
     "Healthy Potato Plant": {
-        "Overview": "Maintaining a healthy potato plant is essential for optimal growth, tuber production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy potato plant is essential for optimal growth, tuber production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green foliage",
           "Uniform and healthy tuber development",
           "No signs of lesions or discoloration on foliage",
           "Robust growth with well-established stems",
           "Minimal wilting or yellowing of leaves"
         ],
-        "OptimalConditions": {
+        "3 Optimal Conditions": {
           "Sunlight": "Full sunlight for optimal tuber development.",
           "Watering": "Regular, consistent watering to keep the soil evenly moist.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Hilling": "Regularly hill soil around the base of the plants to prevent tubers from exposure to light."
         },
-        "Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "4 Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
+        "5 Preventive Measures": [
           "Practice crop rotation to reduce disease buildup.",
           "Use certified disease-free seed potatoes.",
           "Apply appropriate fungicides or insecticides preventatively."
@@ -437,19 +437,19 @@
       },
 
     "Potato Late Blight": {
-      "Overview": "Late blight is a fungal disease affecting potatoes, causing lesions on leaves and tubers.",
-      "Symptoms": [
+      "0 Overview": "Late blight is a fungal disease affecting potatoes, causing lesions on leaves and tubers.",
+      "1 Symptoms": [
         "Dark, water-soaked lesions on leaves",
         "White, cottony growth on lesions in humid conditions",
         "Tuber rot with brown to purplish lesions",
         "Premature leaf senescence"
       ],
-      "TriggerAndSpread": "Spreads rapidly in cool, wet conditions; infects through wind-dispersed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Spreads rapidly in cool, wet conditions; infects through wind-dispersed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or fluazinam preventatively.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant potato varieties.",
         "Avoid overhead irrigation.",
         "Remove volunteer potato plants."
@@ -459,19 +459,19 @@
 
 
     "Rice Brown Spot": {
-      "Overview": "Brown spot is a fungal disease affecting rice, causing lesions on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Brown spot is a fungal disease affecting rice, causing lesions on leaves and reduced yield.",
+      "1 Symptoms": [
         "Brown, water-soaked lesions on leaves",
         "Lesions with yellow halos",
         "Reduced photosynthetic capacity",
         "Premature leaf death"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through wind and rain-splashed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spread through wind and rain-splashed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like azoxystrobin, trifloxystrobin, or tebuconazole during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant rice varieties.",
         "Maintain proper water management.",
         "Rotate crops to reduce inoculum buildup."
@@ -479,22 +479,22 @@
     },
 
     "Healthy Rice Plant": {
-        "Overview": "Maintaining a healthy rice plant is essential for optimal growth, grain production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy rice plant is essential for optimal growth, grain production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Uniform and healthy panicle development",
           "No signs of lesions or discoloration on leaves or panicles",
           "Robust growth with well-established tillers",
           "Minimal lodging or stem breakage"
         ],
-        "OptimalConditions": {
+        "3 Optimal Conditions": {
           "Watering": "Continuous flooding or periodic saturation of fields to mimic natural rice paddies.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Spacing": "Proper spacing between plants to facilitate growth and prevent competition.",
           "Weed Control": "Effective weed management to reduce competition for nutrients and sunlight."
         },
-        "Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "4 Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
+        "5 Preventive Measures": [
           "Implement good water management practices.",
           "Use disease-resistant rice varieties when available.",
           "Apply appropriate pesticides or fungicides preventatively."
@@ -502,21 +502,21 @@
       },
 
     "Rice Hispa": {
-      "Overview": "Rice hispa is an insect pest affecting rice, causing damage to leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Rice hispa is an insect pest affecting rice, causing damage to leaves and reduced yield.",
+      "1 Symptoms": [
         "Scraper-type feeding damage on leaves",
         "White or translucent streaks on leaves",
         "Blunt-nosed insect with elongated body",
         "Reduced plant growth and yield"
       ],
-      "TriggerAndSpread": "Infests rice at all growth stages; prefers young leaves and shoots.",
-      "BiologicalControl": {
-        "NaturalPredators": "Encourage natural predators like spiders, ladybugs, and predatory bugs."
+      "3 Trigger And Spread": "Infests rice at all growth stages; prefers young leaves and shoots.",
+      "4 Biological Control": {
+        "Natural Predators": "Encourage natural predators like spiders, ladybugs, and predatory bugs."
       },
-      "ChemicalControl": {
+      "5 Chemical Control": {
         "Insecticides": "Apply insecticides like imidacloprid, chlorpyrifos, or thiamethoxam during pest outbreaks."
       },
-      "PreventiveMeasures": [
+      "6 Preventive Measures": [
         "Plant early to avoid peak infestation periods.",
         "Use resistant rice varieties if available.",
         "Monitor fields regularly for early detection."
@@ -524,19 +524,19 @@
     },
 
     "Rice Leaf Blast": {
-      "Overview": "Leaf blast is a fungal disease affecting rice, causing lesions on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Leaf blast is a fungal disease affecting rice, causing lesions on leaves and reduced yield.",
+      "1 Symptoms": [
         "Diamond-shaped lesions on leaves",
         "Gray to white fungal growth on lesions",
         "Premature leaf death",
         "Reduced grain quality and yield"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spreads through wind-borne spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spreads through wind-borne spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like tricyclazole, azoxystrobin, or propiconazole during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant rice varieties.",
         "Maintain proper water management.",
         "Rotate crops to reduce inoculum buildup."
@@ -546,22 +546,22 @@
 
 
     "Tomato Bacterial Spot": {
-      "Overview": "Bacterial spot is a bacterial disease affecting tomatoes, causing lesions on leaves and fruit.",
-      "Symptoms": [
+      "0 Overview": "Bacterial spot is a bacterial disease affecting tomatoes, causing lesions on leaves and fruit.",
+      "1 Symptoms": [
         "Dark, water-soaked lesions on leaves",
         "Lesions with yellow halos",
         "Circular lesions on fruit",
         "Premature fruit drop"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through rain, wind, and contaminated tools.",
-      "BiologicalControl": {
-        "BeneficialMicroorganisms": "Introduce beneficial bacteria like Bacillus subtilis or Pseudomonas fluorescens to compete with the pathogen."
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spread through rain, wind, and contaminated tools.",
+      "4 Biological Control": {
+        "Beneficial Microorganisms": "Introduce beneficial bacteria like Bacillus subtilis or Pseudomonas fluorescens to compete with the pathogen."
        },
-      "ChemicalControl": {
-        "CopperBasedSprays": "Apply copper-based bactericides before symptoms appear and throughout the growing season.",
+      "5 Chemical Control": {
+        "Copper Based Sprays": "Apply copper-based bactericides before symptoms appear and throughout the growing season.",
         "Antibiotics": "Apply antibiotics like streptomycin or copper oxychloride in severe cases."
       },
-      "PreventiveMeasures": [
+      "6 Preventive Measures": [
         "Sanitize tools and equipment regularly.",
         "Implement crop rotation to reduce pathogen buildup.",
         "Avoid overhead irrigation if possible."
@@ -569,19 +569,19 @@
     },
 
     "Tomato Early Blight": {
-      "Overview": "Early blight is a fungal disease affecting tomatoes, causing lesions on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Early blight is a fungal disease affecting tomatoes, causing lesions on leaves and reduced yield.",
+      "1 Symptoms": [
         "Dark, concentric rings on leaves",
         "Lesions with yellow halos",
         "Premature leaf drop",
         "Reduced fruit quality"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through wind and rain-splashed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spread through wind and rain-splashed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or copper-based products during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Use resistant tomato varieties if available.",
         "Mulch to prevent soil splash onto lower leaves.",
         "Water plants at the base to avoid leaf wetness."
@@ -589,22 +589,22 @@
     },
 
     "Healthy Tomato Plant": {
-        "Overview": "Maintaining a healthy tomato plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy tomato plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Healthy and well-formed fruit development",
           "No signs of lesions or discoloration on leaves or fruit",
           "Robust growth with well-established stems and branches",
           "Minimal wilting or yellowing of leaves"
         ],
-        "OptimalConditions": {
+        "3 Optimal Conditions": {
           "Sunlight": "Full sunlight for at least 6-8 hours a day.",
           "Watering": "Regular, consistent watering to keep the soil evenly moist.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Pruning": "Regular pruning to remove excess foliage and improve airflow."
         },
-        "Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "4 Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
+        "5 Preventive Measures": [
           "Implement good sanitation practices in the garden.",
           "Apply preventive fungicides and insecticides as needed.",
           "Provide adequate support for growing plants."
@@ -612,19 +612,19 @@
       },
 
     "Tomato Late Blight": {
-      "Overview": "Late blight is a fungal disease affecting tomatoes, causing lesions on leaves and fruit.",
-      "Symptoms": [
+      "0 Overview": "Late blight is a fungal disease affecting tomatoes, causing lesions on leaves and fruit.",
+      "1 Symptoms": [
         "Dark, water-soaked lesions on leaves",
         "White, cottony growth on lesions in humid conditions",
         "Premature leaf drop",
         "Reduced fruit quality"
       ],
-      "TriggerAndSpread": "Favored by cool, wet conditions; spread through wind-dispersed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by cool, wet conditions; spread through wind-dispersed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or copper-based products during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Use resistant tomato varieties if available.",
         "Avoid overhead irrigation.",
         "Remove volunteer tomato plants."
@@ -632,19 +632,19 @@
     },
 
     "Tomato Leaf Mold": {
-      "Overview": "Leaf mold is a fungal disease affecting tomatoes, causing yellow lesions on leaves.",
-      "Symptoms": [
+      "0 Overview": "Leaf mold is a fungal disease affecting tomatoes, causing yellow lesions on leaves.",
+      "1 Symptoms": [
         "Yellow lesions on leaves",
         "Velvety, grayish-brown fungal growth on lesions",
         "Premature leaf drop",
         "Reduced fruit quality"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through wind-borne spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spread through wind-borne spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or copper-based products during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Improve air circulation by proper plant spacing.",
         "Water at the base to avoid leaf wetness.",
         "Remove and destroy infected plant debris."
@@ -652,19 +652,19 @@
     },
 
     "Tomato Septoria Leaf Spot": {
-      "Overview": "Septoria leaf spot is a fungal disease affecting tomatoes, causing lesions on leaves.",
-      "Symptoms": [
+      "0 Overview": "Septoria leaf spot is a fungal disease affecting tomatoes, causing lesions on leaves.",
+      "1 Symptoms": [
         "Small, dark brown lesions with yellow halos on leaves",
         "Leaf yellowing and drop",
         "Reduced fruit quality",
         "Twig and stem lesions"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through rain-splashed spores.",
-      "ChemicalControl": {
+      "3 TriggerAndSpread": "Favored by warm, humid conditions; spread through rain-splashed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or copper-based products during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Improve air circulation by proper plant spacing.",
         "Mulch to prevent soil splash onto lower leaves.",
         "Remove and destroy infected plant debris."
@@ -672,21 +672,21 @@
     },
 
     "Tomato Spider Mites Two Spotted Spider Mites": {
-      "Overview": "Spider mites are arachnid pests affecting tomatoes, causing stippling on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Spider mites are arachnid pests affecting tomatoes, causing stippling on leaves and reduced yield.",
+      "1 Symptoms": [
         "Tiny, yellow or white stippling on leaves",
         "Fine webbing on leaves",
         "Leaf discoloration and bronzing",
         "Reduced plant vigor and yield"
       ],
-      "TriggerAndSpread": "Favored by hot, dry conditions; rapidly reproduce under stress.",
-      "BiologicalControl": {
-        "NaturalPredators": "Encourage natural predators like predatory mites, ladybugs, and lacewings."
+      "3 Trigger And Spread": "Favored by hot, dry conditions; rapidly reproduce under stress.",
+      "4 Biological Control": {
+        "Natural Predators": "Encourage natural predators like predatory mites, ladybugs, and lacewings."
       },
-      "ChemicalControl": {
+      "5 Chemical Control": {
         "Insecticides": "Apply miticides like abamectin, bifenthrin, or spiromesifen during pest outbreaks."
       },
-      "PreventiveMeasures": [
+      "6 Preventive Measures": [
         "Monitor regularly for early detection.",
         "Provide adequate irrigation to maintain plant vigor.",
         "Avoid excessive use of nitrogen fertilizers."
@@ -694,19 +694,19 @@
     },
 
     "Tomato Target Spot": {
-      "Overview": "Target spot is a fungal disease affecting tomatoes, causing circular lesions on leaves.",
-      "Symptoms": [
+      "0 Overview": "Target spot is a fungal disease affecting tomatoes, causing circular lesions on leaves.",
+      "1 Symptoms": [
         "Circular lesions with concentric rings on leaves",
         "Lesions with dark brown to black centers",
         "Premature leaf drop",
         "Twig and stem lesions"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through rain-splashed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spread through rain-splashed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or copper-based products during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Improve air circulation by proper plant spacing.",
         "Mulch to prevent soil splash onto lower leaves.",
         "Remove and destroy infected plant debris."
@@ -714,19 +714,19 @@
     },
 
     "Tomato Mosaic Virus": {
-      "Overview": "Mosaic virus is a viral disease affecting tomatoes, causing mosaic patterns on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Mosaic virus is a viral disease affecting tomatoes, causing mosaic patterns on leaves and reduced yield.",
+      "1 Symptoms": [
         "Mosaic patterns on leaves",
         "Leaf distortion and curling",
         "Reduced fruit size and quality",
         "Stunted plant growth"
       ],
-      "TriggerAndSpread": "Spread through infected seed, plant debris, and mechanical transmission; favored by warm temperatures.",
-      "ChemicalControl": {
+      "3 TriggerAndSpread": "Spread through infected seed, plant debris, and mechanical transmission; favored by warm temperatures.",
+      "4 Chemical Control": {
         "Insecticides": "Control insect vectors like aphids and whiteflies with insecticides.",
         "Sanitizers": "Sanitize equipment to prevent mechanical transmission."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Use virus-free seed and transplants.",
         "Control aphid and whitefly populations.",
         "Rogue and destroy infected plants."
@@ -734,18 +734,18 @@
     },
 
     "Tomato Yellow Leaf Curl Virus": {
-      "Overview": "Yellow leaf curl virus is a viral disease affecting tomatoes, causing leaf yellowing and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Yellow leaf curl virus is a viral disease affecting tomatoes, causing leaf yellowing and reduced yield.",
+      "1 Symptoms": [
         "Leaf yellowing and curling",
         "Reduced leaf size and thickness",
         "Stunted plant growth",
         "Reduced fruit size and quality"
       ],
-      "TriggerAndSpread": "Spread through infected whiteflies; favored by warm temperatures.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Spread through infected whiteflies; favored by warm temperatures.",
+      "4 Chemical Control": {
         "Insecticides": "Control whitefly populations with insecticides like neonicotinoids or pyrethroids."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Use virus-free seed and transplants.",
         "Control whitefly populations with insecticides.",
         "Implement crop rotation to reduce inoculum buildup."
@@ -755,19 +755,19 @@
 
 
     "Wheat Brown Rust": {
-      "Overview": "Brown rust is a fungal disease affecting wheat, causing rust-colored pustules on leaves.",
-      "Symptoms": [
+      "0 Overview": "Brown rust is a fungal disease affecting wheat, causing rust-colored pustules on leaves.",
+      "1 Symptoms": [
         "Rust-colored pustules on leaves",
         "Premature leaf senescence",
         "Reduced photosynthetic capacity",
         "Reduced grain yield and quality"
       ],
-      "TriggerAndSpread": "Favored by cool, humid conditions; spread through wind-dispersed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by cool, humid conditions; spread through wind-dispersed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like triazoles, strobilurins, or benzimidazoles during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant wheat varieties.",
         "Avoid excessive nitrogen fertilization.",
         "Maintain proper plant spacing for good air circulation."
@@ -775,22 +775,22 @@
     },
 
     "Healthy Wheat Plant": {
-        "Overview": "Maintaining a healthy wheat plant is essential for optimal growth, grain production, and resilience against diseases and pests.",
-        "IndicatorsOfHealth": [
+        "0 Overview": "Maintaining a healthy wheat plant is essential for optimal growth, grain production, and resilience against diseases and pests.",
+        "1 Indicators Of Health": [
           "Vibrant green leaves",
           "Uniform and healthy spike development",
           "No signs of lesions or discoloration on leaves or spikes",
           "Robust growth with well-established stems",
           "Minimal lodging or stem breakage"
         ],
-        "OptimalConditions": {
+        "3 Optimal Conditions": {
           "Sunlight": "Full sunlight for optimal photosynthesis and spike development.",
           "Watering": "Moderate and consistent watering, especially during critical growth stages.",
           "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
           "Spacing": "Proper spacing between plants for optimal growth and airflow."
         },
-        "Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
-        "PreventiveMeasures": [
+        "4 Monitoring": "Regularly inspect the plants for signs of diseases, pests, or nutrient deficiencies.",
+        "5 Preventive Measures": [
           "Implement crop rotation to reduce disease pressure.",
           "Use disease-resistant wheat varieties when available.",
           "Apply appropriate pesticides or fungicides preventatively."
@@ -798,18 +798,18 @@
       },
 
     "Wheat Loose Smut": {
-      "Overview": "Loose smut is a fungal disease affecting wheat, causing smutted heads and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Loose smut is a fungal disease affecting wheat, causing smutted heads and reduced yield.",
+      "1 Symptoms": [
         "White, powdery spores on heads",
         "Smutted, blackened heads",
         "Reduced grain yield and quality",
         "Premature head emergence"
       ],
-      "TriggerAndSpread": "Favored by cool, wet conditions; infects seeds during flowering.",
-      "ChemicalControl": {
-        "SeedTreatments": "Treat seeds with systemic fungicides like triazoles or strobilurins before planting."
+      "3 Trigger And Spread": "Favored by cool, wet conditions; infects seeds during flowering.",
+      "4 Chemical Control": {
+        "Seed Treatments": "Treat seeds with systemic fungicides like triazoles or strobilurins before planting."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Use certified disease-free seed.",
         "Avoid planting infected seed.",
         "Apply seed treatments to prevent infection."
@@ -817,19 +817,19 @@
     },
 
     "Wheat Mildew": {
-      "Overview": "Powdery mildew is a fungal disease affecting wheat, causing white fungal growth on leaves and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Powdery mildew is a fungal disease affecting wheat, causing white fungal growth on leaves and reduced yield.",
+      "1 Symptoms": [
         "White, powdery fungal growth on leaves",
         "Leaf curling and distortion",
         "Premature leaf death",
         "Reduced photosynthetic capacity"
       ],
-      "TriggerAndSpread": "Favored by warm days and cool nights; spread through wind-borne spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm days and cool nights; spread through wind-borne spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like triazoles, strobilurins, or sulfur during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant wheat varieties.",
         "Maintain proper plant spacing for good air circulation.",
         "Avoid excessive nitrogen fertilization."
@@ -837,19 +837,19 @@
     },
 
     "Wheat Septoria": {
-      "Overview": "Septoria leaf blotch is a fungal disease affecting wheat, causing leaf lesions and reduced yield.",
-      "Symptoms": [
+      "0 Overview": "Septoria leaf blotch is a fungal disease affecting wheat, causing leaf lesions and reduced yield.",
+      "1 Symptoms": [
         "Small, circular lesions with dark margins on leaves",
         "Lesions with gray centers and yellow halos",
         "Premature leaf death",
         "Reduced photosynthetic capacity"
       ],
-      "TriggerAndSpread": "Favored by warm, humid conditions; spread through rain-splashed spores.",
-      "ChemicalControl": {
+      "3 Trigger And Spread": "Favored by warm, humid conditions; spread through rain-splashed spores.",
+      "4 Chemical Control": {
         "Fungicides": "Apply fungicides like chlorothalonil, mancozeb, or triazoles during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "5 Preventive Measures": [
         "Plant resistant wheat varieties.",
         "Maintain proper plant spacing for good air circulation.",
         "Rotate crops to reduce inoculum buildup."
@@ -857,19 +857,19 @@
     },
 
     "Wheat Stem Rust": {
-      "Overview": "Stem rust is a fungal disease affecting wheat, causing rust-colored pustules on stems.",
-      "Symptoms": [
+      "0 Overview": "Stem rust is a fungal disease affecting wheat, causing rust-colored pustules on stems.",
+      "1 Symptoms": [
         "Rust-colored pustules on stems",
         "Premature stem breakage",
         "Reduced grain yield and quality",
         "Weakened plant structure"
       ],
-      "TriggerAndSpread": "Favored by warm temperatures and high humidity; spread through wind-borne spores.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Favored by warm temperatures and high humidity; spread through wind-borne spores.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like triazoles, strobilurins, or benzimidazoles during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant wheat varieties.",
         "Avoid planting wheat in close proximity to infected barberry shrubs.",
         "Maintain proper plant spacing for good air circulation."
@@ -877,19 +877,19 @@
     },
 
     "Wheat Yellow Rust": {
-      "Overview": "Yellow rust is a fungal disease affecting wheat, causing yellow to orange pustules on leaves.",
-      "Symptoms": [
+      "0 Overview": "Yellow rust is a fungal disease affecting wheat, causing yellow to orange pustules on leaves.",
+      "1 Symptoms": [
         "Yellow to orange pustules on leaves",
         "Premature leaf death",
         "Reduced grain yield and quality",
         "Weakened plant structure"
       ],
-      "TriggerAndSpread": "Favored by cool temperatures and high humidity; spread through wind-borne spores.",
-      "ChemicalControl": {
+      "2 Trigger And Spread": "Favored by cool temperatures and high humidity; spread through wind-borne spores.",
+      "3 Chemical Control": {
         "Fungicides": "Apply fungicides like triazoles, strobilurins, or benzimidazoles during the growing season.",
         "Sanitizers": "Sanitize equipment to prevent spread."
       },
-      "PreventiveMeasures": [
+      "4 Preventive Measures": [
         "Plant resistant wheat varieties.",
         "Rotate crops to reduce inoculum buildup.",
         "Avoid excessive nitrogen fertilization."
